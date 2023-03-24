@@ -11,5 +11,8 @@
     "develop": "react-scripts start"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
