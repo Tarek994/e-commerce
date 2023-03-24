@@ -1,1 +1,1 @@
-This is an E-commerce website.
+This website is an online store that sells products and services.
