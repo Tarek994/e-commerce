@@ -4,7 +4,11 @@
   "description": "This is an E-commerce website.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "develop": "react-scripts start"
   },
   "author": "",
   "license": "ISC"
